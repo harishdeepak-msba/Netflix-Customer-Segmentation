@@ -34,5 +34,5 @@ churn prediction, and CLV estimation across 25,000 Netflix subscribers.
 | `data/netflix_users.csv` | Raw dataset — 25,000 subscribers |
 
 ## Author
-**Lovely Kumari**
+**Harish Deepak**
 MS Business Analytics · University of Arizona
